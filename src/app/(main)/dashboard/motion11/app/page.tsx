@@ -1,5 +1,5 @@
 "use client"
-import Component from '@/components/shadcn-studio/card/card-17'
+import Component from '@/components/card-17'
 
 export default function Page() {
   return (
